@@ -1,1 +1,1 @@
-# ss-network
+# social-network
